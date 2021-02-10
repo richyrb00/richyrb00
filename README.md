@@ -2,12 +2,8 @@
 
 🔭 I’m currently working on a few projects with so little time to work on them all!
 
-### Brands for Change
-This is a website that provides content and information on brands that also have a focus on making the world a better place and helping humans lead a better life :)
-
-### A golf related application
-This project is in it's infancy and so can't give too much away at this stage
-
+#FinTech App
+Allows you to integrate with a range of payment services giving your customers an easy portal to manage their invoices with your company. 
 
 💬 Ask me about ... anything. I'm very active online and you can often find me at the computer so drop me a message on my [Facebook Page](https://www.facebook.com/richardbiltoncom)
 
