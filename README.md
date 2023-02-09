@@ -1,11 +1,13 @@
 # Hi there 👋
 
-🔭 I’m currently working on a few projects with so little time to work on them all!
+🔭 I’m currently working in ecommerce.
 
-#FinTech App
-Allows you to integrate with a range of payment services giving your customers an easy portal to manage their invoices with your company. 
 
-💬 Ask me about ... anything. I'm very active online and you can often find me at the computer so drop me a message on my [Facebook Page](https://www.facebook.com/richardbiltoncom)
+
+💬 Ask me about ... anything. 
+📫 I'm very active online and you can often find me at the computer so drop me a message on my  
+[Facebook Page](https://www.facebook.com/richardbiltoncom)
+⚡ Fun fact: I enjoy fishing and playing golf. 
 
 <!--
 **richyrb00/richyrb00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
