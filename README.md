@@ -4,10 +4,10 @@
 
 
 
-💬 Ask me about ... anything. 
-📫 I'm very active online and you can often find me at the computer so drop me a message on my  
+- 💬 Ask me about ... anything. 
+- 📫 I'm very active online and you can often find me at the computer so drop me a message on my  
 [Facebook Page](https://www.facebook.com/richardbiltoncom)
-⚡ Fun fact: I enjoy fishing and playing golf. 
+- ⚡ Fun fact: I enjoy fishing and playing golf. 
 
 <!--
 **richyrb00/richyrb00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
